@@ -21,7 +21,6 @@ The hash by default is 5 characters in length (enough for my current website pro
 {{ /asset/my-beloved-asset.ext | bustify: 7 }}
 
 ```
-don't go above the ruby's md5 checksum length, which I believe is 32.
 
 ### My hack
 
