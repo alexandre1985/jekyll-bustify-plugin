@@ -24,7 +24,7 @@ The hash by default is 5 characters in length (enough for my current website pro
 
 ### My hack
 
-If you modify an asset file that is a dependency of a bustify file (such as an SASS partial file that is called by an include), you have to run the build command two times, in order to get the right hash
+If you modify an asset file that is a dependency of a bustify file (such as an SASS partial file that is called by an include of another SASS file), you have to run the build command two times, in order to get the right hash
 
 
 
