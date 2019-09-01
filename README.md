@@ -11,14 +11,14 @@ Copy the .rb file into your `_plugins/` project directory (if you don't have the
 for example
 
 ```
-{{ /asset/my-beloved-asset.ext | bustify }}
+{{ '/asset/my-beloved-asset.ext' | bustify }}
 
 ```
 
 The hash by default is 5 characters in length (enough for my current website project needs). If you want more or less characters in the hash, for example 7 characters, use:
 
 ```
-{{ /asset/my-beloved-asset.ext | bustify: 7 }}
+{{ '/asset/my-beloved-asset.ext' | bustify: 7 }}
 
 ```
 
