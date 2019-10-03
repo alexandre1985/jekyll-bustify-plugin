@@ -33,3 +33,5 @@ If you modify an asset file that is a dependency of a bustify file (such as an S
 I you are a Jekyll plugin ninja or an Ruby master, please do help me make this plugin better
 
 Some helpful documentation can be found in the [Jekyll Classes Documentation page](https://www.rubydoc.info/github/jekyll/jekyll/master)
+
+Read the [CONTRIBUTING.md](./CONTRIBUTING.md) file to know the guide
